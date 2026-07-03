@@ -1,0 +1,16 @@
+<svg width="1200" height="110" viewBox="0 0 1200 110" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="100%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0f3460"/>
+      <stop offset="50%" stop-color="#16213e"/>
+      <stop offset="100%" stop-color="#1a1a2e"/>
+    </linearGradient>
+  </defs>
+  <path d="M0,35 C200,10 400,55 600,35 C800,15 1000,55 1200,30 L1200,110 L0,110 Z" fill="url(#bg)">
+    <animate attributeName="d" dur="6s" repeatCount="indefinite"
+      values="M0,35 C200,10 400,55 600,35 C800,15 1000,55 1200,30 L1200,110 L0,110 Z;
+              M0,30 C200,55 400,15 600,40 C800,55 1000,15 1200,35 L1200,110 L0,110 Z;
+              M0,35 C200,10 400,55 600,35 C800,15 1000,55 1200,30 L1200,110 L0,110 Z"/>
+  </path>
+  <text x="600" y="85" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#e94560" text-anchor="middle" letter-spacing="1">✦ &#160;Thanks for visiting — let's build something intelligent&#160; ✦</text>
+</svg>

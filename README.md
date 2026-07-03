@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=Azaj%20Ahamed%20Patel&fontSize=52&fontColor=e94560&animation=fadeIn&fontAlignY=35&desc=Data%20Scientist%20%7C%20AI%20%26%20Automation%20Engineer&descSize=20&descColor=ffffff&descAlignY=55" width="100%"/>
+<img src="assets/header.svg" width="100%" alt="Azaj Ahamed Patel — Data Scientist | AI & Automation Engineer"/>
 
 <a href="https://github.com/iamajazp07">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=E94560&center=true&vCenter=true&width=600&lines=Turning+data+into+decisions;Building+AI+that+teaches+like+YOU;Automating+the+boring+stuff;MSc+Data+Science+%C2%B7+Distinction" alt="Typing SVG" />
@@ -102,6 +102,6 @@ FuturAIse creates a **personal AI avatar for every student** — a digital twin 
 
 💬 *Open to freelance AI, automation & data science projects*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:16213e,100:1a1a2e&height=120&section=footer" width="100%"/>
+<img src="assets/footer.svg" width="100%" alt=""/>
 
 </div>
