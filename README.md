@@ -75,6 +75,7 @@ FuturAIse creates a **personal AI avatar for every student** — a digital twin 
 |---------|-------------|------------|
 | 🤖 **FuturAIse Academy** 🔒 *(in development)* | Personal AI avatar that teaches students in their own learning style | TypeScript, AI/LLMs |
 | 🗳️ **BoothCRM** 🔒 *(private build)* | AI-powered election campaign CRM — Claude AI reads & parses official voter-roll PDFs (OCR + LLM vision), booth-level dashboards, offline-first field app | TypeScript, Next.js, Claude AI |
+| 📧 **Coldwave** 🔒 *(private build)* | Cold-email outreach SaaS — AI-written replies & automated inbox warmup powered by Claude, multi-inbox sending engine with smart scheduling | TypeScript, Next.js, Claude AI |
 | 📋 **[FuturAIse Survey](https://github.com/iamajazp07/FutureAIse-Survey)** | Research survey platform studying how kids use AI | JavaScript |
 | 🐾 **[Pet Booking System](https://github.com/iamajazp07/et-booking-system)** | End-to-end booking platform for pet services | JavaScript |
 | 📈 **Sales Forecasting** | Predicts future sales from historical datasets for real businesses | Python, ML |
