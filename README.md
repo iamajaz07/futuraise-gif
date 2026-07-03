@@ -90,7 +90,7 @@ FuturAIse creates a **personal AI avatar for every student** — a digital twin 
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-workwith.shariff%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:workwith.shariff@gmail.com)
+[![Email](https://img.shields.io/badge/Email-workwith.ajaz%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:workwith.ajaz@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-futuraise--gif-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/futuraise-gif)
 
 💬 *Open to freelance AI, automation & data science projects*
