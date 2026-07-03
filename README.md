@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=Azaj%20Ahamed%20Patel&fontSize=52&fontColor=e94560&animation=fadeIn&fontAlignY=35&desc=Data%20Scientist%20%7C%20AI%20%26%20Automation%20Engineer&descSize=20&descColor=ffffff&descAlignY=55" width="100%"/>
 
 <a href="https://github.com/iamajazp07">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=E94560&center=true&vCenter=true&width=600&lines=Turning+data+into+decisions+📊;Building+AI+that+teaches+like+YOU+🤖;Automating+the+boring+stuff+⚡;MSc+Data+Science+·+Distinction+🎓" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=E94560&center=true&vCenter=true&width=600&lines=Turning+data+into+decisions;Building+AI+that+teaches+like+YOU;Automating+the+boring+stuff;MSc+Data+Science+%C2%B7+Distinction" alt="Typing SVG" />
 </a>
 
 </div>
@@ -12,21 +12,29 @@
 
 ## 🚀 What I'm Building Now — FuturAIse
 
+<img align="right" src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="230" alt="AI robot"/>
+
 > **Your own AI avatar that learns like you, thinks like you, and teaches you.**
 
 FuturAIse creates a **personal AI avatar for every student** — a digital twin that understands how *you* learn, then teaches you school, university, and job-related skills in your own style. Not a generic chatbot. **Your** personal mentor, getting smarter with you every day.
 
 `Deep Learning` · `LLMs` · `Personalized Education` · `AI Avatars`
 
+<br clear="right"/>
+
 ---
 
 ## 👨‍💻 About Me
+
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" alt="Coding"/>
 
 - 🎓 **MSc Data Science** — University of South Wales, UK · Graduated 2024 with **Distinction**
 - 🎓 **B.E. Computer Science & Engineering** — Rajiv Gandhi Institute of Technology
 - 💼 **Software Developer @ Propleader** (2020 – 2023) — built software and automated business workflows end-to-end
 - 🧠 **Freelance AI Engineer** (2024 – present) — AI software, workflow automation, sales forecasting models, Power BI dashboards, and data annotation pipelines
 - 🔬 Built an **image recognition system using deep learning** as my flagship data science project
+
+<br clear="right"/>
 
 ---
 
