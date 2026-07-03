@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=Azaj%20Ahamed%20Patel&fontSize=52&fontColor=e94560&animation=fadeIn&fontAlignY=35&desc=Data%20Scientist%20%7C%20AI%20%26%20Automation%20Engineer&descSize=20&descColor=ffffff&descAlignY=55" width="100%"/>
 
-<a href="https://github.com/futuraise-gif">
+<a href="https://github.com/iamajazp07">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=E94560&center=true&vCenter=true&width=600&lines=Turning+data+into+decisions+📊;Building+AI+that+teaches+like+YOU+🤖;Automating+the+boring+stuff+⚡;MSc+Data+Science+·+Distinction+🎓" alt="Typing SVG" />
 </a>
 
@@ -65,9 +65,9 @@ FuturAIse creates a **personal AI avatar for every student** — a digital twin 
 
 | Project | What it does | Built with |
 |---------|-------------|------------|
-| 🤖 **[FuturAIse Academy](https://github.com/futuraise-gif/FuturaAIse-Academy)** | Personal AI avatar that teaches students in their own learning style | TypeScript, AI/LLMs |
-| 📋 **[FuturAIse Survey](https://github.com/futuraise-gif/FutureAIse-Survey)** | Research survey platform studying how kids use AI | JavaScript |
-| 🐾 **[Pet Booking System](https://github.com/futuraise-gif/et-booking-system)** | End-to-end booking platform for pet services | JavaScript |
+| 🤖 **[FuturAIse Academy](https://github.com/iamajazp07/FuturaAIse-Academy)** | Personal AI avatar that teaches students in their own learning style | TypeScript, AI/LLMs |
+| 📋 **[FuturAIse Survey](https://github.com/iamajazp07/FutureAIse-Survey)** | Research survey platform studying how kids use AI | JavaScript |
+| 🐾 **[Pet Booking System](https://github.com/iamajazp07/et-booking-system)** | End-to-end booking platform for pet services | JavaScript |
 | 📈 **Sales Forecasting** | Predicts future sales from historical datasets for real businesses | Python, ML |
 | 👁️ **Image Recognition** | Deep-learning image recognition system (MSc project) | TensorFlow, CNNs |
 
@@ -77,9 +77,9 @@ FuturAIse creates a **personal AI avatar for every student** — a digital twin 
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=futuraise-gif&theme=radical&hide_border=true&background=0d1117" alt="GitHub Streak" height="180"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=iamajazp07&theme=radical&hide_border=true&background=0d1117" alt="GitHub Streak" height="180"/>
 
-<img src="https://ghchart.rshah.org/e94560/futuraise-gif" alt="Contribution Graph" width="90%"/>
+<img src="https://ghchart.rshah.org/e94560/iamajazp07" alt="Contribution Graph" width="90%"/>
 
 </div>
 
@@ -90,7 +90,7 @@ FuturAIse creates a **personal AI avatar for every student** — a digital twin 
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-workwith.ajaz%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:workwith.ajaz@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-futuraise--gif-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/futuraise-gif)
+[![GitHub](https://img.shields.io/badge/GitHub-iamajazp07-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iamajazp07)
 
 💬 *Open to freelance AI, automation & data science projects*
 
