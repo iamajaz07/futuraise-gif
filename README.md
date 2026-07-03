@@ -73,7 +73,7 @@ FuturAIse creates a **personal AI avatar for every student** — a digital twin 
 
 | Project | What it does | Built with |
 |---------|-------------|------------|
-| 🤖 **[FuturAIse Academy](https://github.com/iamajazp07/FuturaAIse-Academy)** | Personal AI avatar that teaches students in their own learning style | TypeScript, AI/LLMs |
+| 🤖 **FuturAIse Academy** 🔒 *(in development)* | Personal AI avatar that teaches students in their own learning style | TypeScript, AI/LLMs |
 | 📋 **[FuturAIse Survey](https://github.com/iamajazp07/FutureAIse-Survey)** | Research survey platform studying how kids use AI | JavaScript |
 | 🐾 **[Pet Booking System](https://github.com/iamajazp07/et-booking-system)** | End-to-end booking platform for pet services | JavaScript |
 | 📈 **Sales Forecasting** | Predicts future sales from historical datasets for real businesses | Python, ML |
