@@ -77,10 +77,9 @@ FuturAIse creates a **personal AI avatar for every student** — a digital twin 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=futuraise-gif&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" alt="GitHub Stats" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=futuraise-gif&theme=radical&hide_border=true&background=0d1117" alt="GitHub Streak" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=futuraise-gif&theme=radical&hide_border=true&background=0d1117" alt="GitHub Streak" height="180"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=futuraise-gif&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" alt="Top Languages" height="140"/>
+<img src="https://ghchart.rshah.org/e94560/futuraise-gif" alt="Contribution Graph" width="90%"/>
 
 </div>
 
